@@ -55,7 +55,7 @@
 <br>
 
 ### GitHub Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vietgs&show_icons=true" alt="tiger" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vietgs03&show_icons=true" alt="tiger" /></p>
 
 ### Preview
 ![Resume Screenshot](download.png)
