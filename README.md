@@ -57,4 +57,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vietgs03&show_icons=true" alt="GitHub Stats" /></p>
 
 ### Preview
-![Resume Screenshot](download.png)
+![Resume Screenshot](Hoang_Xuan_Viet-1.png)
+![Resume Screenshot](Hoang_Xuan_Viet-2.png)
