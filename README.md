@@ -1,61 +1,99 @@
-<h1 align="center">Hi 👋, I'm Hoàng Xuân Việt</h1>
-<h3 align="center">A self-taught programmer and I've been through a lot of mistakes</h3>
+# 🌟 **Hoàng Xuân Việt** — Crafting Scalable Software Solutions  
 
-![GitHub followers](https://img.shields.io/github/followers/vietgs03?logo=GitHub&style=for-the-badge)
+### 🚀 Senior Fullstack Developer | Architecting Microservices | Building Impactful ERP Systems  
 
-- 🔭 I’m currently working at [Thien Hai Software](https://thienhaisoft.com/)
+---
 
-- 🌱 I’m currently learning **Flutter, English, Microservices, Golang, and backend technologies...**
+## 👨‍💻 **About Me**  
 
-- 👯 I’m looking to collaborate with **other content creators and developers**
+I am a passionate **Senior Fullstack Developer** with over **3 years of professional experience**, dedicated to building **high-performance web applications** and delivering business-critical systems. My expertise lies in developing **ERP platforms**, **eCommerce microservices**, and **warehouse management systems**, blending clean architecture with robust performance optimization techniques.  
 
-- ⚡ Fun fact: **I love to play Soccer and enjoy Chai over coffee.**
+- 🎯 I thrive in environments where **efficiency** and **scalability** are key.  
+- 💡 I specialize in **problem-solving complex system challenges** and aligning technology with business goals.  
+- 🌍 I continuously explore **cutting-edge tools** like **Golang**, **Redis**, and **Docker**, while staying rooted in tried-and-true systems like **PHP** and **Node.js**.  
+- 💼 My professional mantra: *"Good software solves problems; great software creates opportunities."*  
 
-### Connect with me:
+---
 
-<a href="https://www.facebook.com/profile.php?id=100015130367871" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="22" width="22" /></a>
-<a href="https://github.com/vietgs03" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="22" width="22" /></a>
+## 🏆 **Key Achievements**  
 
-<br />
+### 🚚 **Warehouse Management Systems**  
+- 📌 Delivered a **scalable ERP solution** for **Việt Tiến - Vtec**, automating the tracking of raw materials, production outputs, and inventory data.  
+- 🔄 Designed APIs to import complex datasets such as **packing lists**, **inspection reports**, and manual records, ensuring **100% data accuracy**.  
+- 📈 Optimized database performance, reducing query time by **30%** through advanced indexing and query refactoring.
 
-### Languages
+### 🎁 **QR Code-Based Prize Redemption System**  
+- 📱 Developed a gamified **QR code-based prize redemption platform** for **Glico Vietnam**, allowing customers to win prizes instantly via QR scans.  
+- 🤝 Collaborated with **Fibo Services** to enable seamless **real-time financial transactions** to users' SIM cards, ensuring a 100% uptime experience.  
+- 🏆 Achieved user engagement rates **30% higher** than forecasted through intuitive UI and secure backend logic.
 
-<p align="left">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8RqEyY_NcfNEHeOZW4ZeLhkWpUN2dgaM8cQ&usqp=CAU" alt="Java" width="22" height="22"/> Java
-<img src="https://nodejs.org/static/images/logo.svg" alt="NodeJS" width="22" height="22"/> NodeJS
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKVTflN4obalHE47jL8WAuTTwnTKhffRxCDw&usqp=CAU" alt="Golang" width="22" height="22"/> Golang
-<img src="https://www.programiz.com/sites/all/themes/programiz/assets/c.svg" alt="C" width="22" height="22"/> C & C++
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGwMYfXwqnJjxmBkBXmO2le8N8smCqT-84vQ&usqp=CAU" alt="Javascript" width="22" height="22"/> Javascript
-<img src="https://www.php.net//images/logos/new-php-logo.svg" alt="PHP" width="22" height="22"/> PHP
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="22" height="22"/> Flutter
+### 💰 **Accounting ERP for Manufacturing**  
+- 🔎 Built a **comprehensive accounting system** for **Dinh Dưỡng Khánh Hòa**, automating financial reports, tracking assets, and reconciling inventory in real time.  
+- 📊 Designed workflows for **purchase order management**, integrating seamlessly with warehouse and production modules to boost operational efficiency.
 
-### Technologies
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMpcmpYt4fJjsJ1V-MptAANqXO_4J7v0n2zw&usqp=CAU" alt="Kafka" width="22" height="22"/> Kafka
-<img src="https://www.rabbitmq.com/img/logo-rabbitmq.svg" alt="RabbitMQ" width="22" height="22"/> RabbitMQ
+---
 
-### Databases
-<img src="https://mariadb.org/wp-content/themes/twentynineteen-child/icons/mariadb_org_rgb_h.svg" alt="MariaDB" width="22" height="22"/>MariaDB
-<img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="22" height="22"/>PostgreSQL
-<img src="https://webimages.mongodb.com/_com_assets/cms/kuzt9r42or1fxvlq2-Meta_Generic.png" alt="MongoDB" width="22" height="22"/>MongoDB
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL" width="22" height="22"/>MySQL
+## 💼 **Professional Skill Set**  
 
-### DevOps
-<!-- Add your DevOps skills here -->
+### 🔧 **Technical Expertise**  
+- **Languages**:  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)  
+  ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)  
+  ![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white)  
 
-### Most Used Languages
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vietgs03&layout=compact&hide=html" alt="Most Used Languages" /></p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+- **Databases**:  
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+  ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)  
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
 
-### GitHub Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vietgs03&show_icons=true" alt="GitHub Stats" /></p>
+- **DevOps Tools**:  
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+  ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)  
+  ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)  
 
-### Preview
-![Resume Screenshot](Hoang_Xuan_Viet-1.png)
-![Resume Screenshot](Hoang_Xuan_Viet-2.png)
+### 📚 **Specializations**  
+- **Microservices Architecture**: Designing loosely coupled, scalable, and maintainable services for modern applications.  
+- **ERP Systems**: End-to-end development of modules for accounting, inventory, and production management.  
+- **Performance Optimization**: Expertise in **query optimization**, **batch processing**, and minimizing **service downtime**.  
+
+---
+
+## 🌟 **Notable Projects**  
+
+### 1. **ERP for Việt Tiến - Vtec**  
+- Automated the entire production lifecycle from **raw materials** to finished goods.  
+- Built high-performance APIs for real-time inventory tracking and reconciliation.  
+- Enhanced operational productivity by **20%** through system integration and optimization.
+
+### 2. **ECommerce Microservices Platform**  
+- Designed a **microservices architecture** for a marketplace with independent services for user management, order processing, and payment integration.  
+- Leveraged **RabbitMQ** for asynchronous task handling and **Redis** for caching, reducing API response times by **40%**.  
+
+### 3. **QR Prize Redemption**  
+- Built from the ground up, ensuring **secure data flows** between users, servers, and third-party payment providers.  
+- Achieved **zero downtime** during the campaign, processing over **50,000 QR scans** daily.  
+
+---
+
+## 📈 **GitHub Stats**  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vietgs03&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+## 📬 **Let's Connect**  
+I love connecting with like-minded developers and exploring new ideas! Feel free to reach out:  
+
+- 🌐 [GitHub](https://github.com/vietgs03)  
+- 📧 [Email](mailto:viet.gs03@gmail.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/vietgs03)  
+
+---
+
+## ⚡ **Fun Fact**  
+When I’m not writing code, I’m either **playing football ⚽**, **brewing coffee ☕**, or tinkering with **new technologies 🔧** just for fun!
+![Resume Screenshot](1.png)
+![Resume Screenshot](2.png)
