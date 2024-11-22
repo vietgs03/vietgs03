@@ -89,7 +89,7 @@ I love connecting with like-minded developers and exploring new ideas! Feel free
 
 - 🌐 [GitHub](https://github.com/vietgs03)  
 - 📧 [Email](mailto:viet.gs03@gmail.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/vietgs03)  
+- 💼 [LinkedIn](https://linkedin.com/in/viet-hoang-286277178)  
 
 ---
 
