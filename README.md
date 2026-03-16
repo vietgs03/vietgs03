@@ -95,5 +95,3 @@ I love connecting with like-minded developers and exploring new ideas! Feel free
 
 ## ⚡ **Fun Fact**  
 When I’m not writing code, I’m either **playing football ⚽**, **brewing coffee ☕**, or tinkering with **new technologies 🔧** just for fun!
-![Resume Screenshot](1.png)
-![Resume Screenshot](2.png)
