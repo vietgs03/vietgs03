@@ -1,50 +1,38 @@
-# Hi, I'm Việt 👋
+# Hoàng Xuân Việt
 
-**Backend Engineer** from Ho Chi Minh City, Vietnam 🇻🇳 — building scalable systems, and lately, things that think.
+Backend engineer based in Ho Chi Minh City. I design and run systems where correctness and throughput actually matter — ERP backbones, trading engines, event-driven platforms.
 
-```go
-func (v *Viet) CurrentFocus() []string {
-    return []string{
-        "AI-powered developer tooling & agents",
-        "Quantitative trading systems",
-        "Distributed systems & microservices",
-    }
-}
-```
+Currently focused on **AI-assisted developer tooling** and **quantitative trading infrastructure**.
 
-## 🔭 What I'm working on
+## What I'm building
 
-- **[Vardionix](https://github.com/vietgs03/Vardionix)** — AI-powered DevSecOps platform that detects, fixes, and validates security issues directly in your workflow
-- **[Kairos-v2](https://github.com/vietgs03/Kairos-v2)** — Fully automated quantitative trading engine combining AI/ML with statistical probability. Data over emotions, always
-- **[diagram-toolkit](https://github.com/vietgs03/diagram-toolkit)** — Opinionated Mermaid upgrade powering [blog.viethx.com](https://blog.viethx.com): icon inlining, semantic motion, zoom lightbox
+**[Vardionix](https://github.com/vietgs03/Vardionix)** — AI-powered DevSecOps platform. Detects, fixes, and validates security issues inside the developer workflow instead of bolting scanning on at the end of CI. The interesting problems here are not the scanning itself, but trust: how do you make an automated fix something an engineer will actually merge?
 
-## 🛠️ Tech I work with
+**[Kairos-v2](https://github.com/vietgs03/Kairos-v2)** — Fully automated quantitative trading engine. AI/ML signal generation layered on a statistical risk framework. The hard part isn't the model — it's the execution path: idempotent order handling, reconciliation under partial failure, and removing every place a human emotion could leak into the loop.
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+**[diagram-toolkit](https://github.com/vietgs03/diagram-toolkit)** — Opinionated Mermaid pipeline powering [blog.viethx.com](https://blog.viethx.com). Component taxonomy, icon inlining, semantic motion, and a rule validator — because architecture diagrams deserve a linter too.
 
-**Background:** ERP platforms, eCommerce microservices, warehouse management systems — high-throughput, business-critical backends.
+## How I think about systems
 
-## 📊 Stats
+- **Boring at the core, sharp at the edges.** Postgres, Go, and a message queue solve most problems. Novelty budget goes where it earns its keep.
+- **Design for the failure path first.** Retries, idempotency keys, and reconciliation jobs are the architecture — the happy path is just a special case.
+- **Performance is a feature with a budget.** I've cut p99 latencies and query times not by guessing, but by measuring: indexes, batch boundaries, and knowing when a cache hides a design flaw versus fixes one.
+- **Code is a liability; behavior is the asset.** The best PR is often a deletion.
 
+## Background
+
+Several years shipping business-critical backends: warehouse management and accounting ERP for manufacturers (Việt Tiến, Khánh Hòa Nutrition), a QR-based prize redemption platform for Glico Vietnam handling 50k+ scans/day with real-money payouts, and eCommerce microservices on RabbitMQ/Redis.
+
+**Daily drivers:** Go, TypeScript/Node.js, PostgreSQL, Redis, Kafka, Docker. PHP when the legacy calls.
+
+## Elsewhere
+
+Writing at [blog.viethx.com](https://blog.viethx.com) · [LinkedIn](https://linkedin.com/in/viet-hoang-286277178) · [viet.gs03@gmail.com](mailto:viet.gs03@gmail.com)
+
+<details>
+<summary>GitHub stats</summary>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vietgs03&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vietgs03&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vietgs03&show_icons=true&count_private=true&theme=graywhite&hide_border=true" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vietgs03&layout=compact&theme=graywhite&hide_border=true" alt="Top Languages" height="160" />
 </p>
-
-## 📬 Connect
-
-[![Blog](https://img.shields.io/badge/Blog-blog.viethx.com-FF5722?style=flat-square&logo=rss&logoColor=white)](https://blog.viethx.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-viet--hoang-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/viet-hoang-286277178)
-[![Email](https://img.shields.io/badge/Email-viet.gs03%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:viet.gs03@gmail.com)
-
----
-
-<p align="center"><i>"Good software solves problems; great software creates opportunities."</i></p>
+</details>
